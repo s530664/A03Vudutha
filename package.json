@@ -1,0 +1,19 @@
+{   "name": "A03Vudutha",
+    "version": "0.0.1",
+    "description": "Personal web site",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest",
+         "mailgun-js":"latest"
+    },
+    "author": "Lakshman Vudutha",
+    "homepage": "https://bitbucket.org/LakshmanVudutha/M07",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/LakshmanVudutha/M07"
+    },
+     "license": "Apache-2.0"
+}

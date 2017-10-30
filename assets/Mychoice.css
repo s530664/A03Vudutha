@@ -1,0 +1,62 @@
+p
+{
+   font-size: 150%;
+   color:green;
+   text-align: center;
+}
+h1
+{
+text-align: center;
+}
+.calc
+{
+text-align: center;
+}
+body
+{
+background-image: url("b.jpg");
+
+    background-attachment: fixed;
+	height: 200px;
+    width: 85%;
+background-size: cover;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    width:150px;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active
+   {
+      background-color:olivedrab;
+      color: white;
+
+   }
+   
+   
+
+   .mychoice{
+     text-align: center;
+   }
+
+   #area{
+     text-align: center;
+     font-size: 30px;
+     color: purple;
+   }
